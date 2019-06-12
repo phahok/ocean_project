@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Android/Insert App Indexing API Code" />
     <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Kotlin/Specify explicit lambda signature" />
   </component>
 </application>
